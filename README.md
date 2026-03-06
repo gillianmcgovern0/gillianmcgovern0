@@ -4,6 +4,6 @@ Hi! I am a former Software Engineer and a recent Data Science Master's graduate.
 
 Repos to highlight:
 * [`projects`](https://github.com/gillianmcgovern0/projects): This repo has a sample of CUNY data science projects
-* [`cuny-capstone`](https://github.com/gillianmcgovern0/cuny-capstone): This repo contains the code for my capstone (Analyzing TIME Magazine Cover Design with CNNs and Claude)
+* [`cuny-capstone`](https://github.com/gillianmcgovern0/cuny-capstone): This repo contains the code for my CUNY capstone (Analyzing TIME Magazine Cover Design with CNNs and Claude)
 
 
