@@ -1,5 +1,9 @@
+<div align="center">
+
 # Hello! 👋 I'm Gillian
 ## Data Scientist
+
+</div>
 
 ### About Me
 👩‍💻 I am a **Data Scientist** and former Oracle **Software Engineer** in the Advertising Technology industry.
