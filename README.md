@@ -8,7 +8,7 @@
 
 ### Recent Academic Projects
 * [Analyzing TIME Magazine Cover Design with CNNs and Claude](https://github.com/gillianmcgovern0/cuny-capstone):
-Using PyTorch, developed a multimodal ML model combining a pre-trained ResNet-50 CNN and Claude to analyze TIME magazine covers, leveraging ResNet-50 for low-level visual feature extraction and Claude for art direction, layout analysis, and thematic interpretation — advancing beyond the single-modality CNN baseline in design analysis research, and demonstrating a novel use of LLMs in design studies.
+Using PyTorch, developed a multimodal ML model combining a pre-trained ResNet-50 CNN and Claude to analyze TIME magazine covers, leveraging ResNet-50 for low-level visual feature extraction and Claude for art direction, layout analysis, and thematic interpretation — advancing beyond conventional CNN-only approaches, and demonstrating a novel and practical application of LLMs in creative design research.
 
 * [Underlying Drivers of Total Cholesterol](https://rpubs.com/datanerddhanya/1380795):
 Collaborated with 2 peers on a multiple linear regression model using R to examine the relationship between cholesterol level and key predictors including demographic characteristics, socioeconomic status, behavioral factors, and clinical measures using the National Health and Nutrition Examination Survey (NHANES).
